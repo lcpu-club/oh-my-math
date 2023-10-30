@@ -1,0 +1,16 @@
+/out/
+/build/
+
+out/
+build/
+
+# Idris 2
+*.ttc
+*.ttm
+
+/**out/
+/**build/
+
+# Idris 1
+*.ibc
+*.o
